@@ -23,24 +23,35 @@ For some the Internet is a medium, a better television with more clips of cats t
 
 None of these perceptions is *wrong*, given enough time and discussion you will probably not find two people seeing and using the Internet in exactly the same way. Each person's perception and conception is *right* … for *them*. 
 
-Obviously Problems start bubbling up as soon as we try to form rules, laws or social conventions for the interactions online: The rules for a library are different from the rules for a shopping mall are different from the rules for rooms of social interactions.
+Obviously Problems start bubbling up as soon as we try to form rules, laws or social conventions for the interactions online: The rules for a library are different from the rules for a shopping mall are different from the rules for rooms of social interactions. 
 
-In the beginning I talked about the emergence of the Internet. Instead of pretending that I know the birth date of the Internet by heart, that this network that permeates almost every aspect of my everyday life has become so important to me that I celebrate its coming into this world every year with cake and a party I will be honest: I paused writing to look up the exact fact. There, it's out. I went to Wikipedia[^wiki1] to get the date, quickly scanned the full page[^wikiInternet] for the little tidbit of information I needed at that moment. And I will probably have forgotten it by tomorrow morning leaving me just with a lingering feeling of an idea of how old the Internet is.
+In the coming chapters I will try to define sort a few of the concepts and ideas necessary to develop a consistent understanding of the basic building block we are talking about when we speak about the Internet. We will use those definitions and concepts to derive a few basic principles and later rules for interacting with the Internet and the entities "inside" of it.
 
-But I am telling you those rather trivial events not as an act of self-deprecation[^wikideprecation], not to try to get on your good side or to get you to sympathise with me - far from that actually. I am being very open with you because I respect you too much to waste your time.
+I won't lie to you, you might not like every idea I present and elaborate here. I will challenge a few of the so-called *truths* that we as a society have made ourselves comfortable with, will tell you that many of the things that certain authorities, activists or civil rights proponents have promised you really are impossible at best and a lie at worst. I see this book as an approach to bring some structure to the discussion that is currently being lead by different entities with completely different ideas about what the Internet actually is. Consider me a janitor: I am sweeping up the mess that other people have left and clean up the room so that it is useful again. 
 
-[Internet - interconnectedness => sharing]
+In the beginning I talked about the emergence of the Internet. Instead of pretending that I know the birth date of the Internet by heart, that this network that permeates almost every aspect of my everyday life has become so important to me that I celebrate its coming into this world every year with cake and a party I will be honest: I paused writing to look up the exact fact. There, it's out. I went to Wikipedia[^wikipedia] to get the date, quickly scanned the full page[^wikiInternet] for the little tidbit of information I needed at that moment. And I will probably have forgotten it by tomorrow morning leaving me just with a lingering feeling of an idea of how old the Internet is.
+
+I am telling you this rather trivial event not as an act of self-deprecation[^wikideprecation], not to try to get on your good side or to get you to sympathise with me - far from that actually. I am being very open with you because I respect you too much to waste your time: If you are looking for someone cocksure of knowing all the answers to everything you might want to move on and look for one of those - usually elderly - men who tend to be on every TV show and in every magazine preaching the gospel of their own wisdom. 
+
+As much as I believe that I know a thing or two my experiences and the circumstances I live in form my perceptions. I will not claim to be able to capture everybody's history in these pages. The ideas I will write about tend to be rather abstract, shedding many of the different discourses that people are working on[^discourses]. Those discourses obviously do bleed into every observation of human behavior, in order to create a simpler, clearer model I will not focus on them though, that will be a task for a later time.
+
+This book is a work in process. It always will be. And I like it that way. Because it means that we are still developing, learning, changing.
+
+## The author
+
+
 
 This book is an approach to explain a few aspects of the Internet and the way we live in it. A collection of a web of thoughts that I have been developing during the last few years.
 
 In 2011 I got involved with a German group of people calling themselves the "datenschutzkritische Spackeria"[^spackeria]
 
 
+## The Title
 
-I won't lie to you, you might not like every idea I present and elaborate here. I will challenge a few of the so-called *truths* that we as a society have made ourselves comfortable with, will tell you that many of the things that certain authorities, activists or civil rights proponents have promised you really are impossible at best and a lie at worst.
+[Internet - interconnectedness -> Sharing]
 
-
-[^wiki1]: https://www.wikipedia.org
+[^discourses]: I am thinking specifically about the topics of sexism, racism and currently existing problems with economic or social inequality
+[^wikipedia]: https://www.wikipedia.org
 [^wikiInternet]: https://en.wikipedia.org/wiki/Internet
 [^wikideprecation]: https://en.wikipedia.org/wiki/Self-deprecation
 [^spackeria]: a rough english translation would be "data-protection criticizing Spackeria" with "Spackeria" being a play on the word "Spacko" meaning something like idiot
