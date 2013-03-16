@@ -41,9 +41,19 @@ This book is a work in process. It always will be. And I like it that way. Becau
 
 The cover says that my name is tante. That is obviously not how my parents decided to call me, my legal name is Jürgen Geuter. I was born in Germany in a cold night in December of 1979 and later studied computer science and philosophy.
 
-This book is an approach to explain a few aspects of the Internet, a collection of a web of thoughts that I have been developing during the last few years. In 2011 I got involved with a German group of people calling themselves the "datenschutzkritische Spackeria"[^spackeria]. The Spackeria formed as a response to what some people call "German Angst"[^GermanAngst].
+This book is an approach to explain a few aspects of the Internet, a collection of a web of thoughts that I have been developing during the last few years. In 2011 I got involved with a German group of people calling themselves the "datenschutzkritische Spackeria"[^spackeria]. The Spackeria formed as a response to what some people call "German Angst"[^GermanAngst] as a room where technology, the way it effects people and especially the approaches to regulate it could be discussed more open-mindedly.
+
+I wrote a lot and gave a few talks on privacy and the way our digital world changes our perception of it but the more work I put into the facet of privacy the more I realized that the reasons that the mechanisms and consequences I was analysing in this very specific part of our digital lives applied to a wider area so I started to find more generic terms and structures leading to me finally writing this book.
 
 ## The Title
+
+If you are keeping score you might have noticed that even though the title of this book is "The Conditions of Sharing" I have not used the word *share* so far. Let me change that.
+
+The author Cory Doctorow once said that the Internet is
+
+> the world's most efficient copying machine
+
+and he is not wrong. From a mechanical standpoint. But as I was saying earlier: The Internet is really about what people do with it. And what people do to a large extend is sharing.
 
 [Internet - interconnectedness -> Sharing]
 
