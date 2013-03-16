@@ -1,6 +1,12 @@
 # Introduction
 
-As I am writing this, the Internet is not a new thing, it has existed since 1982. 
+As I am writing this, the Internet is not a new thing, it has existed since 1982. But even after over 30 years William Gibson's quote still rings true:
+
+> The future is already here — it's just not very evenly distributed.
+
+Where some people have integrated the Internet as deeply into their lives as their ability to read or speak or sing, others have - for a plethora of different but mostly economic reasons - not even proper regular access to it. 
+
+Uneven distribution of new technologies is really nothing new. After leaving their inventor's lab, many technologies tend to spread to the hands of certain elites: New technologies tend to be costly to build and maintain, especially if you yourself do not have all the skills necessary. So you end up having to pay some technician or other sort of expert as a maintainer, you need to obtain the required consumable supplies and last but certainly not least you have to have the time and leisure to even develop an interest into some technology the mainstream has not taken note of.  
 
 Now I could pretend that I know the birth date of the Internet by heart, that this network that permeates almost every aspect of my everyday life has become so important to me that I celebrate its coming into this world every year with cake and a party. But that would be dishonest. 
 
