@@ -53,13 +53,13 @@ The author Cory Doctorow once said that the Internet is
 
 > the world's most efficient copying machine
 
-and he is not wrong. From a mechanical standpoint. But as I was saying earlier: The Internet is really about what people do with it. And what people do to a large extend is sharing.
+And he is not wrong from a mechanical standpoint. But as I was saying earlier: The Internet is really about what people do with it. And what people do to a large extend is sharing.
 
 [Internet - interconnectedness -> Sharing]
 
 [^discourses]: I am thinking specifically about the topics of sexism, racism and currently existing problems with economic or social inequality
-[^wikipedia]: [](https://www.wikipedia.org)
-[^wikiInternet]: [](https://en.wikipedia.org/wiki/Internet)
-[^wikideprecation]: [](https://en.wikipedia.org/wiki/Self-deprecation)
+[^wikipedia]: https://www.wikipedia.org
+[^wikiInternet]: https://en.wikipedia.org/wiki/Internet
+[^wikideprecation]: https://en.wikipedia.org/wiki/Self-deprecation
 [^spackeria]: a rough english translation would be "data-protection criticizing Spackeria" with "Spackeria" being a play on the word "Spacko" meaning something like idiot
-[^GermanAngst]: Sadly there only is an entry in the German Wikipedia [](https://de.wikipedia.org/wiki/German_Angst). German Angst refers to an attitude based on the credo of technology mostly being bad for people (unless it's about cars, Germans love cars!)
+[^GermanAngst]: Sadly there only is an entry in the German Wikipedia https://de.wikipedia.org/wiki/German_Angst. German Angst refers to an attitude based on the credo of technology mostly being bad for people (unless it's about cars, Germans love cars!)
