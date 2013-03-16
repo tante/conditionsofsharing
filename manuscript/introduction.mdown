@@ -6,8 +6,18 @@ Now I could pretend that I know the birth date of the Internet by heart, that th
 
 I paused writing to look up the exact fact. There, it's out. I went to Wikipedia[^wiki1] to get the date, quickly scanned the full page[^wikiInternet] for the little tidbit of information I needed at that moment. And I will probably have forgotten it by tomorrow morning leaving me just with a lingering feeling of an idea of how old the Internet is.
 
+But I am telling you those rather trivial events not as an act of self-deprecation[^wikideprecation], not to try to get on your good side or to get you to sympathise with me - far from that actually. I am being very open with you because I respect you too much to waste your time.
 
+This book is an approach to explain a few aspects of the Internet and the way we live in it. A collection of a web of thoughts that I have been developing during the last few years.
+
+In 2011 I got involved with a German group of people calling themselves the "datenschutzkritische Spackeria"[^spackeria]
+
+
+
+I won't lie to you, you might not like every idea I present and elaborate here. I will challenge a few of the so-called *truths* that we as a society have made ourselves comfortable with, will tell you that many of the things that certain authorities, activists or civil rights proponents have promised you really are impossible at best and a lie at worst.
 
 
 [^wiki1]: https://www.wikipedia.org
 [^wikiInternet]: https://en.wikipedia.org/wiki/Internet
+[^wikideprecation]: https://en.wikipedia.org/wiki/Self-deprecation
+[^spackeria]: a rough english translation would be "data-protection criticizing Spackeria" with "Spackeria" being a play on the word "Spacko" meaning something like idiot
