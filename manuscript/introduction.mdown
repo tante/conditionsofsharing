@@ -1,18 +1,35 @@
 # Introduction
 
-As I am writing this, the Internet is not a new thing, it has existed since 1982. But even after over 30 years William Gibson's quote still rings true:
+As I am writing this, on a Saturday evening in the March of 2013, the Internet is not a new thing. In fact it has existed since 1982. But even after over 30 years William Gibson's quote still rings true:
 
-> The future is already here — it's just not very evenly distributed.
+> The future is already here - it's just not very evenly distributed.
 
 Where some people have integrated the Internet as deeply into their lives as their ability to read or speak or sing, others have - for a plethora of different but mostly economic reasons - not even proper regular access to it. 
 
-Uneven distribution of new technologies is really nothing new. After leaving their inventor's lab, many technologies tend to spread to the hands of certain elites: New technologies tend to be costly to build and maintain, especially if you yourself do not have all the skills necessary. So you end up having to pay some technician or other sort of expert as a maintainer, you need to obtain the required consumable supplies and last but certainly not least you have to have the time and leisure to even develop an interest into some technology the mainstream has not taken note of.  
+Uneven distribution of new technologies is really nothing new. After leaving their inventor's lab, many technologies tend to spread to the hands of certain elites: New technologies tend to be costly to build and maintain, especially if you yourself do not have all the skills necessary. So you end up having to pay some technician or other sort of expert as a maintainer, you need to obtain the required consumable supplies and last but certainly not least you have to have the time and leisure to even develop an interest into some technology the mainstream has not taken note of. After a while technology tends to become more affordable, the kinks get worked out, mass production starts and a short while later everybody has one of those fancy electrical freezers at home. 
 
-Now I could pretend that I know the birth date of the Internet by heart, that this network that permeates almost every aspect of my everyday life has become so important to me that I celebrate its coming into this world every year with cake and a party. But that would be dishonest. 
+Those processes of technology spreading to the masses can take a long time but the Internet took - after a slow start in the labs of a few scientists and universities as well as a few people in the military - the western world like a wildfire. Here in Germany it hit mainstream somewhere between the middle and the end of the 1990ies: Now, less than 20 years later the amount of people not pretty much constantly connected either with their personal or work computers, smart phones or tablet computers.
 
-I paused writing to look up the exact fact. There, it's out. I went to Wikipedia[^wiki1] to get the date, quickly scanned the full page[^wikiInternet] for the little tidbit of information I needed at that moment. And I will probably have forgotten it by tomorrow morning leaving me just with a lingering feeling of an idea of how old the Internet is.
+Still the spreading of the bare technology has not spread the Internet as evenly as it might look. The technology *is* in most people's hands but the Internet is not just a piece of electronic, a device. It is a phenomenon emerging from the use of technology, in a certain way you could say that the Internet is just what you make it by using it, a construction of your actions.
+
+For some the Internet is a medium, a better television with more clips of cats that plays what you want when you want it. Others see the Internet as the replacement for the meters of printed encyclopedia that still filled living room shelves a few years ago, a way to quickly get a certain piece of information. The Internet is at the same time:
+
+* a shopping mall
+* an entertainment system
+* the most complete library in the history of mankind
+* a room for social interaction
+* a living environment
+* and infinitely more
+
+None of these perceptions is *wrong*, given enough time and discussion you will probably not find two people seeing and using the Internet in exactly the same way. Each person's perception and conception is *right* … for *them*. 
+
+Obviously Problems start bubbling up as soon as we try to form rules, laws or social conventions for the interactions online: The rules for a library are different from the rules for a shopping mall are different from the rules for rooms of social interactions.
+
+In the beginning I talked about the emergence of the Internet. Instead of pretending that I know the birth date of the Internet by heart, that this network that permeates almost every aspect of my everyday life has become so important to me that I celebrate its coming into this world every year with cake and a party I will be honest: I paused writing to look up the exact fact. There, it's out. I went to Wikipedia[^wiki1] to get the date, quickly scanned the full page[^wikiInternet] for the little tidbit of information I needed at that moment. And I will probably have forgotten it by tomorrow morning leaving me just with a lingering feeling of an idea of how old the Internet is.
 
 But I am telling you those rather trivial events not as an act of self-deprecation[^wikideprecation], not to try to get on your good side or to get you to sympathise with me - far from that actually. I am being very open with you because I respect you too much to waste your time.
+
+[Internet - interconnectedness => sharing]
 
 This book is an approach to explain a few aspects of the Internet and the way we live in it. A collection of a web of thoughts that I have been developing during the last few years.
 
