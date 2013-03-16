@@ -39,19 +39,17 @@ This book is a work in process. It always will be. And I like it that way. Becau
 
 ## The author
 
+The cover says that my name is tante. That is obviously not how my parents decided to call me, my legal name is Jürgen Geuter. I was born in Germany in a cold night in December of 1979 and later studied computer science and philosophy.
 
-
-This book is an approach to explain a few aspects of the Internet and the way we live in it. A collection of a web of thoughts that I have been developing during the last few years.
-
-In 2011 I got involved with a German group of people calling themselves the "datenschutzkritische Spackeria"[^spackeria]
-
+This book is an approach to explain a few aspects of the Internet, a collection of a web of thoughts that I have been developing during the last few years. In 2011 I got involved with a German group of people calling themselves the "datenschutzkritische Spackeria"[^spackeria]. The Spackeria formed as a response to what some people call "German Angst"[^GermanAngst].
 
 ## The Title
 
 [Internet - interconnectedness -> Sharing]
 
 [^discourses]: I am thinking specifically about the topics of sexism, racism and currently existing problems with economic or social inequality
-[^wikipedia]: https://www.wikipedia.org
-[^wikiInternet]: https://en.wikipedia.org/wiki/Internet
-[^wikideprecation]: https://en.wikipedia.org/wiki/Self-deprecation
+[^wikipedia]: [](https://www.wikipedia.org)
+[^wikiInternet]: [](https://en.wikipedia.org/wiki/Internet)
+[^wikideprecation]: [](https://en.wikipedia.org/wiki/Self-deprecation)
 [^spackeria]: a rough english translation would be "data-protection criticizing Spackeria" with "Spackeria" being a play on the word "Spacko" meaning something like idiot
+[^GermanAngst]: Sadly there only is an entry in the German Wikipedia [](https://de.wikipedia.org/wiki/German_Angst). German Angst refers to an attitude based on the credo of technology mostly being bad for people (unless it's about cars, Germans love cars!)
