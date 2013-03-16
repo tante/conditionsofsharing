@@ -1,0 +1,9 @@
+# Introduction
+
+As I am writing this, the Internet is not a new thing, it has existed since 1982. Now I could pretend that I know the birth date of the Internet by heart, that this network that permeates almost every aspect of my everyday life has become so important to me that I celebrate its coming into this world every year with cake and a party. But that would be dishonest. 
+
+I paused writing to look up the exact fact. There, it's out. I went to Wikipedia[^wiki1] to get the date.
+
+
+[^wiki1]: https://www.wikipedia.org
+[^wikiInternet]: https://en.wikipedia.org/wiki/Internet
