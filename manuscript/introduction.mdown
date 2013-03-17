@@ -55,9 +55,27 @@ The author Cory Doctorow once said that the Internet is
 
 > the world's most efficient copying machine
 
-And he is not wrong from a mechanical standpoint. But as I was saying earlier: The Internet is really about what people do with it. And what people do to a large extend is sharing.
+And he is not wrong from a mechanical standpoint. But as I was saying earlier: The Internet is really about what people do with it. And what people do to a large extend is sharing; the Internet is making each one of us a publisher. 
 
-[Internet - interconnectedness -> Sharing]
+There have been many success stories of bloggers turning their passion into their livelihood, engineers quitting their job to put out their own pet projects, people crafting things in their own homes and selling them through platforms like Etsy to potentially thousands of customers all over the world. It's obvious how the Internet allowed them to share (and monetize) their passions, offers and works. 
+
+But that is the home-shopping-channel vision of the Internet, a byproduct. What it provides to the individual is far more powerful and intense than cheap goods delivered to your doorstep: **Connectivity**.
+
+Every little bit of information we put out there, every blog, every status update, every comment, every tweet makes us easier to connect to. You like this one edgy comic book artist that hardly anyone has heard of? There will be some sort of fan-forum, Facebook page or blog about her where you can find others interested in the same thing. You read an article by some scientist about a new theory you find interesting but you still have a question? Write an email and more often than not you will get an answer, start a conversation with the most brilliant minds from your living room couch (or the gym, or school or some nice bar in Paris).
+
+Every bit about ourselves that we share can be connective. Not every connection is great as many have had to find out: Bullying, stalking, harassment are common online just as they are offline. But offline we have established social rules trying to soften the blow and online many of those rules seem to fail. The popular web comic Penny Arcade summed it up in 2004[^pafuckwad]:
+
+> Normal Person + Anonymity + Audience = Total Fuckwad
+
+There is the notion that the Internet makes people mean because it's anonymous, some feel that they can get away with everything. And we have seen so many cases of it that it rings true: It's the wild west all over again and the person shooting first wins. 
+
+I believe that while this perspective is an obvious case of cultural pessimism[^cultpess] we cannot just cast those concerns aside. Social problems have a tendency not to dissolve but to become norms. So what we really have to develop is an understanding of how the Internet as a social space works, what underlaying laws form the space and how it enables certain behaviors.
+
+In 1624 John Donne coined the phrase
+
+> No man is an island
+
+The truth of this statement has become very visible through the Internet enabling us human beings to act on a more global level. And so far we've not always proven to be our best. I believe that understanding the system Internet will help us to form better social contracts about interactions with each other, will enable each one of us to be more free in the expression of him- or herself. For this we need guidelines to live by. The conditions of sharing.
 
 [^discourses]: I am thinking specifically about the topics of sexism, racism and currently existing problems with economic or social inequality
 [^wikipedia]: https://www.wikipedia.org
@@ -66,3 +84,5 @@ And he is not wrong from a mechanical standpoint. But as I was saying earlier: T
 [^spackeria]: a rough english translation would be "data-protection criticizing Spackeria" with "Spackeria" being a play on the word "Spacko" meaning something like idiot
 [^GermanAngst]: Sadly there only is an entry in the German Wikipedia https://de.wikipedia.org/wiki/German_Angst. German Angst refers to an attitude based on the credo of technology mostly being bad for people (unless it's about cars, Germans love cars!)
 [^irl]: "in real life"
+[^pafuckwad]: http://www.penny-arcade.com/comic/2004/03/19
+[^cultpess]: https://en.wikipedia.org/wiki/Cultural_pessimism
