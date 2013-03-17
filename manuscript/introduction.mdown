@@ -45,6 +45,8 @@ This book is an approach to explain a few aspects of the Internet, a collection 
 
 I wrote a lot and gave a few talks on privacy and the way our digital world changes our perception of it but the more work I put into the facet of privacy the more I realized that the reasons that the mechanisms and consequences I was analysing in this very specific part of our digital lives applied to a wider area so I started to find more generic terms and structures leading to me finally writing this book.
 
+I live online completely immersing myself in the Internet. *Being offline* to me means that there is a bug: Some train I am in has no proper wireless or my provider messed something up. I don't subscribe to the *IRL*[^irl] fetish some people, especially people considering themselves well-educated, maintain. The Internet is not always better, but it is better at some things. And its distinctive beauty is that it does not force you to be exclusive. You can be online, reachable, connectable even while exploring something in physical space. The Internet is a permanent layer on top of the world that my parents grew up in, a *Reality+*.  Some people call the physical world the "real world". I believe that that's not a good name because the Internet *is* also real. Joining, merging both aspects of reality with each other is the future is what defines a lot of my work. And lead to this book.
+
 ## The Title
 
 If you are keeping score you might have noticed that even though the title of this book is "The Conditions of Sharing" I have not used the word *share* so far. Let me change that.
@@ -63,3 +65,4 @@ And he is not wrong from a mechanical standpoint. But as I was saying earlier: T
 [^wikideprecation]: https://en.wikipedia.org/wiki/Self-deprecation
 [^spackeria]: a rough english translation would be "data-protection criticizing Spackeria" with "Spackeria" being a play on the word "Spacko" meaning something like idiot
 [^GermanAngst]: Sadly there only is an entry in the German Wikipedia https://de.wikipedia.org/wiki/German_Angst. German Angst refers to an attitude based on the credo of technology mostly being bad for people (unless it's about cars, Germans love cars!)
+[^irl]: "in real life"
