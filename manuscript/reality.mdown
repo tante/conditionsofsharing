@@ -2,7 +2,13 @@
 
 In 2009 the government of Sweden was trialling the 3 founders of the file-sharing site "The Pirate Bay". At some point in the hearings Peter Sunde was asked about the beginnings of the collaboration by the judge: "*When was the first time you met IRL?*[^irl]" Sunde replied: "*We don’t use the expression IRL. We say AFK- Away From Keyboard. We think that the internet is for real.*"[^tpbafk]
 
+Is the Internet real? That is a tougher question than many might think at first considering that most people will answer that question quickly and enthusiastically either with "Sure!" or "No". What is "real" anyways?
+
+Speaking plainly, reality is everything that exists or has existed[^realitydef]. The laptop I write this text on exists, it's right in front of me. My grandfather also existed (without him I wouldn't be here) and even though he's no longer around he's real. A unicorn has (according to all we know) never existed and does not exist now so it's not real. 
+
+You, as an attentive reader, are probably raising an eyebrow wondering if I did not just tricked you by replacing the word "real" with the word "exist"
 
 
 [^irl]: IRL meaning "in real life"
 [^tpbafk]: Director Simon Klose published a documentary on the pirate bay also covering the process titled "TPBAFK" which can be watched at http://tpbafk.tv
+[^realitydef]: Some even include "or will exist" to the mix
