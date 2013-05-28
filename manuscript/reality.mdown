@@ -6,9 +6,14 @@ Is the Internet real? That is a tougher question than many might think at first 
 
 Speaking plainly, reality is everything that exists or has existed[^realitydef]. The laptop I write this text on exists, it's right in front of me. My grandfather also existed (without him I wouldn't be here) and even though he's no longer around he's real. A unicorn has (according to all we know) never existed and does not exist now so it's not real. 
 
-You, as an attentive reader, are probably raising an eyebrow wondering if I did not just tricked you by replacing the word "real" with the word "exist"
+You, as an attentive reader, are probably raising an eyebrow wondering if I did not just tricked you by replacing the word "real" with the phrase "to exist" but there is some value in the distinction between "existence" and "reality".
+
+The Internet does exist. There is no reasonable doubt about it[^solipsism], we can see how it influences the world around us, we can use it to send information around. And if it exists it has to be real because that is the definition of being real. "Real life" therefore always includes whatever happens online, as well as what happens offline.
+
+What make the Internet special is that - most of the time - it eludes the limitations and regulations of the physical space.
 
 
 [^irl]: IRL meaning "in real life"
 [^tpbafk]: Director Simon Klose published a documentary on the pirate bay also covering the process titled "TPBAFK" which can be watched at http://tpbafk.tv
 [^realitydef]: Some even include "or will exist" to the mix
+[^solipsism]: There are people called 'solipsists' who do not believe in the existence of anything apart from their own self and who would obviously discard the Internet on the huge pile of things they don't believe to exist, but we'll just ignore them in this discussion.

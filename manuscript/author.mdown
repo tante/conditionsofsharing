@@ -1,0 +1,10 @@
+# The author
+
+The cover says that my name is tante. That is obviously not how my parents decided to call me, my legal name is Jürgen Geuter. I was born in Germany in a cold night in December of 1979 and later studied computer science and philosophy.
+
+This book is an approach to explain a few aspects of the Internet, a collection of a web of thoughts that I have been developing during the last few years. In 2011 I got involved with a German group of people calling themselves the "datenschutzkritische Spackeria"[^spackeria]. The Spackeria formed as a response to what some people call "German Angst"[^GermanAngst] as a room where technology, the way it effects people and especially the approaches to regulate it could be discussed more open-mindedly.
+
+I wrote a lot and gave a few talks on privacy and the way our digital world changes our perception of it but the more work I put into the facet of privacy the more I realized that the reasons that the mechanisms and consequences I was analysing in this very specific part of our digital lives applied to a wider area so I started to find more generic terms and structures leading to me finally writing this book.
+
+I live online completely immersing myself in the Internet. *Being offline* to me means that there is a bug: Some train I am in has no proper wireless or my provider messed something up. I don't subscribe to the *IRL*[^irl] fetish some people, especially people considering themselves well-educated, maintain. The Internet is not always better, but it is better at some things. And its distinctive beauty is that it does not force you to be exclusive. You can be online, reachable, connectable even while exploring something in physical space. The Internet is a permanent layer on top of the world that my parents grew up in, a *Reality+*.  Some people call the physical world the "real world". I believe that that's not a good name because the Internet *is* also real. Joining, merging both aspects of reality with each other is the future is what defines a lot of my work. And lead to this book.
+
