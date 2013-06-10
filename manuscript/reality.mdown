@@ -44,8 +44,13 @@ Now why spend so much time with the thoughts of old philosophers? Wasn't the pla
 
 In the last few paragraphs we learned that our minds only works on data, data our sensors (eyes, ears, skin and others) have - after a long chain pf preprocessing - supplied our brains with. If we apply this to the Internet, we see that it really makes no difference whether the data we base our decision on comes from some sound that we heard or whether it comes from someone else on the other side of the globe hacking away at his or her keyboard.
 
-Reality is to a certain degree a very individual thing. Your reality is the sum of data you perceive and have perceived. Mine might look slightly different.
+Reality is to a certain degree a very individual thing. Your reality is the sum of data you perceive and have perceived. Mine might look slightly different. But still we can communicate about our shared reality. Which is a small wonder. But we have managed to find ways to agree on words for certain things 
 
+
+
+
+
+Not all data is equal, some is more abstract, more distant, some is raw, other data is highly processed 
 
 
 
