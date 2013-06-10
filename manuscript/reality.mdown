@@ -1,16 +1,24 @@
 # Reality
 
-In 2009 the government of Sweden was trialling the 3 founders of the file-sharing site "The Pirate Bay". At some point in the hearings Peter Sunde was asked about the beginnings of the collaboration by the judge: "*When was the first time you met IRL?*[^irl]" Sunde replied: "*We don’t use the expression IRL. We say AFK- Away From Keyboard. We think that the internet is for real.*"[^tpbafk]
+In 2009 the government of Sweden was trialling the 3 founders of the file-sharing site "The Pirate Bay" for piracy. At some point in the hearings the judge asked Peter Sunde about the beginnings of the collaboration between the 3 guys: "*When was the first time you met IRL?*[^irl]" Sunde replied: "*We don’t use the expression IRL. We say AFK- Away From Keyboard. We think that the internet is for real.*"[^tpbafk]
+
+This might sound like a playful reply by some young guy trying to smartass his way through a trial (and you can see how little they believed in the possibility of them losing the trial beforehand when watching the movie). After all, the Internet, the "virtual" space is my many seen *by definition* as unreal. 
 
 Is the Internet real? That is a tougher question than many might think at first considering that most people will answer that question quickly and enthusiastically either with "Sure!" or "No". What is "real" anyways?
 
-Speaking plainly, reality is everything that exists or has existed[^realitydef]. The laptop I write this text on exists, it's right in front of me. My grandfather also existed (without him I wouldn't be here) and even though he's no longer around he's real. A unicorn has (according to all we know) never existed and does not exist now so it's not real. 
+Speaking plainly, reality is everything that exists or has existed[^realitydef]. The laptop I write this text on exists, it's right in front of me and if you came here to visit you could see it, touch it. My grandfather also existed (without him I wouldn't be here) and even though he's no longer around he's real. A unicorn has (according to all we know) never existed and does not exist now so it's not real (even though we can think about it).
 
-You, as an attentive reader, are probably raising an eyebrow wondering if I did not just tricked you by replacing the word "real" with the phrase "to exist" but there is some value in the distinction between "existence" and "reality".
+You, as an attentive reader, are probably raising an eyebrow wondering if I did not just trick you by replacing the word "real" with the phrase "to exist" but there is some value in the distinction between "existence" and "reality".
 
-The Internet does exist. There is no reasonable doubt about it[^solipsism], we can see how it influences the world around us, we can use it to send information around. And if it exists it has to be real because that is the definition of being real. "Real life" therefore always includes whatever happens online, as well as what happens offline.
+The Internet does exist. There is no reasonable doubt about it[^solipsism], we can see how it influences the world around us, we can use it to send information around. We make friends online just as we do offline and if we click on certain websites and enter some (virtual) data, a few days later someone will knock on our door to bring us stuff. There is no reasonable argument for saying that the Internet does not exist.
 
-What make the Internet special is that - most of the time - it eludes the limitations and regulations of the physical space.
+But if it exists it has to be real. That is the actual definition of being real. "Real life" therefore always includes whatever happens online, as well as what happens offline. What makes the Internet special is that - most of the time - it eludes the limitations and regulations of the physical space.
+
+The categories we tend to think in are deeply linked to concepts from the physical space: We are almost hardwired to apply the constructs that make a lot of sense in our physical environment to other aspects. It is the first structure of the world we get to interact with as young kids, it is where we learn to distinguish what we call "I" from the rest of the world. And even rather abstract ideas do borrow heavily from the way we interact with the physical space. The concept of privacy as a right to control who perceives information about us has a lot to do with visibility in the physical world: Even if you and me are just 1 meter apart, if I construct a wall around myself (and mind you, not even a very thick one) whatever I do is considered to be private. And it's more than just a convention, it has worked its way deep into our brains. How else would we perceive those bathroom stalls in public restrooms private? We apply the concept because - in a certain way - we have cheated ourselves: We have limited our view of the world around us and now we believe (like a child playing "hiding" by covering its eyes with its own hands) that the world won't perceive us. 
+
+
+
+
 
 
 [^irl]: IRL meaning "in real life"

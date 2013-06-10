@@ -1,3 +1,0 @@
-author.mdown
-introduction.mdown
-reality.mdown
