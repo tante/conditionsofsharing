@@ -1,6 +1,8 @@
 # Reality
 
-In 2009 the government of Sweden was trialling the 3 founders of the file-sharing site "The Pirate Bay" for piracy. At some point in the hearings the judge asked Peter Sunde about the beginnings of the collaboration between the 3 guys: "*When was the first time you met IRL?*[^irl]" Sunde replied: "*We don’t use the expression IRL. We say AFK- Away From Keyboard. We think that the internet is for real.*"[^tpbafk]
+In 2009 the government of Sweden was trialling the 3 founders of the file-sharing site "The Pirate Bay" for piracy. At some point in the hearings the judge asked Peter Sunde about the beginnings of the collaboration between the 3 guys: 
+"*When was the first time you met IRL?*[^irl]" 
+Sunde replied: "*We don’t use the expression IRL. We say AFK- Away From Keyboard. We think that the internet is for real.*"[^tpbafk]
 
 This might sound like a playful reply by some young guy trying to smartass his way through a trial (and you can see how little they believed in the possibility of them losing the trial beforehand when watching the movie). After all, the Internet, the "virtual" space is my many seen *by definition* as unreal. 
 
@@ -14,14 +16,28 @@ The Internet does exist. There is no reasonable doubt about it[^solipsism], we c
 
 But if it exists it has to be real. That is the actual definition of being real. "Real life" therefore always includes whatever happens online, as well as what happens offline. What makes the Internet special is that - most of the time - it eludes the limitations and regulations of the physical space.
 
-The categories we tend to think in are deeply linked to concepts from the physical space: We are almost hardwired to apply the constructs that make a lot of sense in our physical environment to other aspects. It is the first structure of the world we get to interact with as young kids, it is where we learn to distinguish what we call "I" from the rest of the world. And even rather abstract ideas do borrow heavily from the way we interact with the physical space. The concept of privacy as a right to control who perceives information about us has a lot to do with visibility in the physical world: Even if you and me are just 1 meter apart, if I construct a wall around myself (and mind you, not even a very thick one) whatever I do is considered to be private. And it's more than just a convention, it has worked its way deep into our brains. How else would we perceive those bathroom stalls in public restrooms private? We apply the concept because - in a certain way - we have cheated ourselves: We have limited our view of the world around us and now we believe (like a child playing "hiding" by covering its eyes with its own hands) that the world won't perceive us. 
+The categories we tend to think in are deeply linked to concepts from the physical space: We are almost hardwired to apply the constructs that make a lot of sense in our physical environment to other aspects. It is the first structure of the world we get to interact with as young kids, it is where we learn to distinguish what we call "I" from the rest of the world. And even rather abstract ideas do borrow heavily from the way we interact with the physical space. The concept of privacy as a right to control who perceives information about us has a lot to do with visibility in the physical world: Even if you and me are just 1 meter apart, if I construct a wall around myself (and mind you, not even a very thick one) whatever I do is considered to be private. And it's more than just a convention, it has worked its way deep into our brains. How else would we perceive those bathroom stalls in public restrooms private? We apply the concept because - in a certain way - we have cheated ourselves: We have limited our view of the world around us and now we believe (like a child playing "hiding" by covering its eyes with its own hands) that the world won't perceive us in return.
 
+To speak in more technical terms: We have limited, filtered our input stream which changed our model of the current state of the world. While this behavior might look a little stupid or at least childish, there is actually a lot or merit to it.
 
+At least in our western culture basically everybody knows Rene Descartes' famous quote "*cogito ergo sum*". Descartes was a French philosopher working the the beginning of the 17th century[^descartes] in (amongst others) the area of metaphysics. Now metaphysics is somewhat of a weird topic. Basically it deals with the fundamental structure of the world: What is there and what is it like? Is there a physical world? And if it does how does it work? Is there a difference between people and liveless objects?
 
+So Descartes was trying to uncover the basic properties of the world. And being a mathematician he started by reducing everything down to what he could be sure about. Turn out that that really is not that much. 
 
+Just as an example how his argumentative downward spiral worked, let's ask ourselves a very simple question: Does the physical world really exist? You might be tempted to say "yes" before you remember seeing a DVD of Matrix and realizing that it all could just be a trick of our imagination. When we dream we see things that, at that time, we think are real. We can be tricked using drugs or (nowadays) by poking electrodes into our brain. So, no, we don't really know for sure that the world exists.
 
+Descartes went on and on up until he found the one tiny thing he could be sure about: "*cogito ergo sum*", I think therefore I am.
+
+Obviously this was (and still is) a very extreme position. We feel like we can be sure about so much more, we can be sure that there is a world, right? And even I said that we'll ignore solipsistic views in this book. Still, we do have a significant problem, one that we love to play with actually: We have no clue what the world around us is like.
+
+You have probably seen some sort of optical illusion at some point. A picture that looks like an old and a young woman at the same time or maybe a two dimensional image that you perceive as a 3D object. We love to play with these things: When I was still studying we had a few of those taped to our kitchen door as conversation starters for parties. Today we send them around as links to images, we collect them in tumbleblog full of visual treachery.
+
+We know that we think, that we exist (Thanks Rene) but what we know of the world is all second hand at best. In front of me, slightly to the right, is a glass full of juice. I can see it. But if I am honest, I do not. My mind just has visual data flowing in that I interpret as a glass of juice. But is what my sense data says the truth? 
+
+I don't have great eyesight so I have to wear glasses to allow me to perceive things properly. So my actual sense data would say that the world is a soup of fuzzy areas of color. 
 
 [^irl]: IRL meaning "in real life"
 [^tpbafk]: Director Simon Klose published a documentary on the pirate bay also covering the process titled "TPBAFK" which can be watched at http://tpbafk.tv
 [^realitydef]: Some even include "or will exist" to the mix
 [^solipsism]: There are people called 'solipsists' who do not believe in the existence of anything apart from their own self and who would obviously discard the Internet on the huge pile of things they don't believe to exist, but we'll just ignore them in this discussion.
+[^descartes] You can find more about him at http://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
