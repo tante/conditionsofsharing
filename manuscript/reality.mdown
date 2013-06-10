@@ -34,7 +34,20 @@ You have probably seen some sort of optical illusion at some point. A picture th
 
 We know that we think, that we exist (Thanks Rene) but what we know of the world is all second hand at best. In front of me, slightly to the right, is a glass full of juice. I can see it. But if I am honest, I do not. My mind just has visual data flowing in that I interpret as a glass of juice. But is what my sense data says the truth? 
 
-I don't have great eyesight so I have to wear glasses to allow me to perceive things properly. So my actual sense data would say that the world is a soup of fuzzy areas of color. 
+I don't have great eyesight so I have to wear glasses to allow me to perceive things properly. So my actual sense data would say that the world is a soup of fuzzy areas of color. Our senses are very limited and they tend to lie. Our mind doesn't even really trust our senses and and tries to make sense out of the wrong things the sense data tries to tell it. Did you notice the extra "and" in the last sentence? There's a good chance you haven't because your brain, the fast pattern processor decided to preprocess the sentence, filtering out the "wrong" content before the result was handed to your conscious mind.
+
+As a person I perceive myself mostly as what is commonly called my "conscience", the part of my mind that makes decisions, that rationalizes. But even if we ignore the layers upon layers of processing beneath, all the emotions and diverse signals that get mixed down to something out consciousness can work with, we as a conscience work on a model based solely on some second hand data our senses gave us.
+
+We do not know the real world directly, our minds do not touch the world. We are tied to our body, our brain, the hardware that our mind "runs" on as an emerging phenomenon, but the "program" can't touch the world, it can only trigger certain actuators that might nudge the world on or the other way. When I think that I want to lift the glass to drink some juice my mind gets my arm to move, and at some point it gets feedback from my tastebuds that I just had delicious apple juice but my mind never directly tasted it.
+
+Now why spend so much time with the thoughts of old philosophers? Wasn't the plan to talk Internet and new technologies?
+
+In the last few paragraphs we learned that our minds only works on data, data our sensors (eyes, ears, skin and others) have - after a long chain pf preprocessing - supplied our brains with. If we apply this to the Internet, we see that it really makes no difference whether the data we base our decision on comes from some sound that we heard or whether it comes from someone else on the other side of the globe hacking away at his or her keyboard.
+
+Reality is to a certain degree a very individual thing. Your reality is the sum of data you perceive and have perceived. Mine might look slightly different.
+
+
+
 
 [^irl]: IRL meaning "in real life"
 [^tpbafk]: Director Simon Klose published a documentary on the pirate bay also covering the process titled "TPBAFK" which can be watched at http://tpbafk.tv
